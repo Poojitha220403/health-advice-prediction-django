@@ -1,0 +1,67 @@
+{
+  "statements": [
+    {
+      "system_name": "Body",
+      "statement": "Your Body score is Good.No need to Worry!",
+      "quote": "Take care of your body. It's the only place you have to live.",
+      "author": "Jim Rohn",
+      "health_score_range": [-1.2, 0.053]
+    },
+    {
+      "system_name": "Cardiac",
+      "statement": "Your Cardic score is Good.No need to Worry!",
+      "quote": "A healthy heart is a sign of a healthy life.",
+      "author": "Mehmet Oz",
+      "health_score_range": [0, 0.35]
+    },
+    {
+      "system_name": "Pulmonary",
+      "statement": "Your Pulmonary score is Good.No need to Worry!",
+      "quote": "When the breath is unsteady, all is unsteady; when the breath is still, all is still.",
+      "author": "Hatha Yoga Pradipika",
+      "health_score_range": [-1.21, -0.006]
+    },
+    {
+      "system_name": "Muscle",
+      "statement": "Your Muscle score is Good.No need to Worry!",
+      "quote": "Your muscles are your best investment. Work hard and watch them grow.",
+      "author": "Unknown",
+      "health_score_range": [-1.16, -0.047]
+    },
+    {
+      "system_name": "Immune",
+      "statement": "Your Immune score is Good.No need to Worry!",
+      "quote": "Your immune system is a superhero within you, fighting off threats and keeping you safe. Celebrate its power and support it with healthy habits.",
+      "author": "Unknown",
+      "health_score_range": [0, 1.26]
+    },
+    {
+      "system_name": "Renal",
+      "statement": "Your renal score is Good.No need to Worry!",
+      "quote": "Kidneys are the body's natural filters, and they work best when you drink enough water.",
+      "author": "Annaliese Griffin",
+      "health_score_range": [-1.26, -0.007]
+    },
+    {
+      "system_name": "Hepatic",
+      "statement": "Your hepatic score is Good.No need to Worry!",
+      "quote": "Your liver is your body's primary detoxifier. Keeping it healthy is essential to your overall well-being.",
+      "author": "Sarah Ballantyne",
+      "health_score_range": [-1, -0.041]
+    },
+    {
+      "system_name": "Metabolic",
+      "statement": "Your metabolic score is Good.No need to Worry!",
+      "quote": "Your metabolism is like a fire. Feed it well and it will burn bright. Neglect it, and it will smolder.",
+      "author": "Anonymous",
+      "health_score_range": [-1.5, 0.215]
+    },
+    {
+      "system_name": "Brain",
+      "statement": "Your Brain score is Good.No need to Worry!",
+      "quote": "Your brain is capable of extraordinary things. Believe in its potential, nurture its growth, and watch it soar to new heights.",
+      "author": "Unknown",
+      "health_score_range": [-0.83, 0.185]
+    }
+  ]
+}

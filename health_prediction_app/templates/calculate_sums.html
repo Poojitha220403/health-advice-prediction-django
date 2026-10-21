@@ -1,0 +1,17 @@
+<!-- myapp/templates/myapp/calculate_sums.html -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Calculate Sums</title>
+  </head>
+  <body>
+    <form method="post">
+      {% csrf_token %}
+      <!-- Add input fields for each attribute -->
+      <!-- Example: <input type="number" name="user_input[]" value="1" /> -->
+      <!-- Repeat for all attributes -->
+      <button type="submit">Calculate Sums</button>
+    </form>
+  </body>
+</html>

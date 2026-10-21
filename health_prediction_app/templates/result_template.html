@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Health Advice and Precautions</title>
+    <style>
+      /* Your CSS styles here */
+    </style>
+  </head>
+  <body>
+    <h1>Health Advice and Precautions</h1>
+
+    <!-- Health Advice -->
+    <h2>Health Advice</h2>
+    {% for system_name, advice_list in advice_results.items %}
+    <div class="section">
+      <h3>{{ system_name }}</h3>
+      <ul class="advice-list">
+        {% for advice_dict in advice_list %}
+        <li>
+          <strong>{{ advice_dict.advice }}</strong>
+          <ul class="details">
+            {% for detail in advice_dict.details %}
+            <li>{{ detail }}</li>
+            {% endfor %}
+          </ul>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+
+    <!-- Precautions -->
+    <h2>Precautions</h2>
+    {% for system_name, precaution_list in precautions_results.items %}
+    <div class="section">
+      <h3>{{ system_name }}</h3>
+      <ul class="precaution-list">
+        {% for precaution_dict in precaution_list %}
+        <li>
+          <strong>{{ precaution_dict.precaution }}</strong>
+          <ul class="steps">
+            {% for step in precaution_dict.steps %}
+            <li>{{ step }}</li>
+            {% endfor %}
+          </ul>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+    <style>
+      .quote-container {
+        margin-bottom: 20px;
+      }
+
+      .quote {
+        font-style: italic;
+        margin-top: 5px; /* Adjust margin as needed */
+      }
+
+      .author {
+        font-weight: bold;
+      }
+    </style>
+    <h2>Your Organs are at right age</h2>
+    <div>
+      {% for system_name, statement_info in statement_results.items %}
+      <div class="quote-container">
+        <div class="quote-wrapper">
+          <p>{{ statement_info.statement }}</p>
+          <div>
+            <p class="quote">"{{ statement_info.quote }}"</p>
+            <p class="author">- {{ statement_info.author }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </body>
+</html>

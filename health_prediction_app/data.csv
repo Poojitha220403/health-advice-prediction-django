@@ -1,0 +1,62 @@
+S. No,Age type,Attribute,Body,Cardiac,Pulmonary,Muscle,Immune,Renal,Hepatic,Metabolic,Brain
+1,Older Biological Age,Average weekly alcohol consumption,1,1,0,0,2,0,0,2,2.6
+2,Older Biological Age,Current tobacco smoking,2.6,0,2.6,1,2,2,1,1,1
+3,Older Biological Age,Past tobacco smoking,0,0,0,0,0,0,0,0,1
+4,Older Biological Age,Pack years of smoking,2.6,0,2.6,2,2,2,1,2,2.6
+5,Older Biological Age,Pack years of smoking (proportional),2.6,0,2.6,2,2,2,1,2,2.6
+6,Older Biological Age,Daily smoker,2,0,2,0,1,1,0,1,2
+7,Older Biological Age,Townsend deprivation index,1,0,2,1,0,0,0,0,0
+8,Older Biological Age,Index of multiple deprivation (England),1,0,2,1,0,0,0,0,0
+9,Older Biological Age,Index of multiple deprivation (Wales),1,0,2,2,0,0,0,0,0
+10,Older Biological Age,Index of multiple deprivation (Scotland),2.6,0,2.6,2.6,0,2,0,0,0
+11,Older Biological Age,Job involves mainly walking or standing,1,1,1,1,0,0,0,0,0
+12,Older Biological Age,Job involves heavy manual or physical work,1,1,1,1,0,0,0,0,0
+13,Older Biological Age,Job involves shift work,0,0,1,0,0,0,0,0,0
+14,Older Biological Age,Unable to work because of sickness,2,0,1,1,1,1,0,0,0
+15,Older Biological Age,Transport to work-public,0,0,1,0,0,0,0,0,0
+16,Older Biological Age,Frequency of strenuous sports in last 4 weeks,0,1,0,0,0,0,0,0,0
+17,Older Biological Age,Time spent watching television,1,0,2,1,0,0,0,0,0
+18,Older Biological Age,Salt added to food,0,0,1,0,0,0,0,0,0
+19,Older Biological Age,Nap during day,0,0,1,0,0,0,0,0,0
+20,Older Biological Age,Sleeplessness/insomnia,0,0,0,1,0,0,0,0,0
+21,Older Biological Age,Daytime dozing/sleeping (narcolepsy),0,0,0,1,0,0,0,0,0
+22,Older Biological Age,Falls in the last year,1,0,0,1,0,1,0,0,0
+23,Older Biological Age,"Long-standing illness, disability or infirmity",2,0,2,1,0,2,0,1,1
+24,Older Biological Age,Hearing (speech reception threshold),0,0,2,1,0,0,0,0,1
+25,Older Biological Age,Visual acuity (logMAR),1,0,1,1,0,0,0,0,0
+26,Older Biological Age,Mood swings,0,0,0,1,0,0,0,0,0
+27,Older Biological Age,Fed-up feelings,0,0,0,1,0,0,0,0,0
+28,Older Biological Age,Nervous feelings,0,0,0,1,0,0,0,0,0
+29,Older Biological Age,"Loneliness, isolation",0,0,1,1,0,0,0,0,0
+30,Older Biological Age,Neuroticism score,0,0,0,1,0,0,0,0,0
+31,Older Biological Age,Had menopause,2.6,0,0,2.6,2.6,2.6,2.6,2.6,0
+32,Older Biological Age,Nitrogen dioxide air pollution,0,0,2,0,0,0,0,0,0
+33,Older Biological Age,Nitrogen oxides air pollution,0,0,2,0,0,0,0,0,0
+34,Older Biological Age,Particlar matter air pollution (PM10),0,0,1,0,0,0,0,0,0
+35,Older Biological Age,Particlar matter air pollution (PM2.5),0,0,2,0,0,0,0,0,0
+36,Older Biological Age,PM2.5 absorbance,0,0,2,0,0,0,0,0,0
+37,Older Biological Age,Cognitive age,1,0,2,1,0,0,0,0,2.6
+38,Younger Biological Age,Birth weight,-1,0,-2,-2,0,0,0,0,-1
+39,Younger Biological Age,Age started smoking in current smokers,-2,0,-2,-1,0,-1,-1,0,0
+40,Younger Biological Age,Time since stopped smoking,-2,0,-2.6,-1,0,-1,0,-1,-2.6
+41,Younger Biological Age,Age completed full time education,0,0,0,-1,0,0,0,0,0
+42,Younger Biological Age,College/university qualification,-1,0,-1,-2,0,0,0,0,0
+43,Younger Biological Age,In paid employment,-1,0,0,0,0,-2.6,0,0,0
+44,Younger Biological Age,Usual walking pace,-2,0,-2,-2,0,0,0,0,-1
+45,Younger Biological Age,Frequency of stair climbing in last 4 weeks,0,0,-1,0,0,0,0,0,0
+46,Younger Biological Age,Duration walking for pleasure,0,0,-1,0,0,0,0,0,0
+47,Younger Biological Age,Summed days activity,0,0,0,-1,0,0,0,0,0
+48,Younger Biological Age,Above moderate/vigorous recommendation,0,0,0,-1,0,0,0,0,0
+49,Younger Biological Age,Oily fish intake,-1,0,0,-1,0,-1,-1,0,0
+50,Younger Biological Age,Cheese intake,0,0,-1,0,0,0,0,0,0
+51,Younger Biological Age,Cereal intake,-1,0,-2,0,0,0,0,-2,-2
+52,Younger Biological Age,Good sleep duration,0,0,-1,0,0,0,0,0,0
+53,Younger Biological Age,Ease of getting up in the morning,0,0,0,-1,0,0,0,0,0
+54,Younger Biological Age,Age when periods started (menarche),0,0,0,0,0,-1,0,0,0
+55,Younger Biological Age,Number of live births,0,0,0,0,0,0,0,0,-1
+56,Younger Biological Age,Age at first live birth,-2,0,-2,-2,0,-1,-1,0,0
+57,Younger Biological Age,Age at menopause,0,0,-1,0,0,0,0,0,0
+58,Younger Biological Age,"Greenspace %, buer 1,000 m",0,0,-1,0,0,0,0,0,0
+59,Younger Biological Age,"Greenspace %, buer 300 m ",0,0,-1,0,0,0,0,0,0
+60,Younger Biological Age,"Natural environment %, buer 1,000 m",0,0,-1,0,0,0,0,0,0
+61,Younger Biological Age,"Natural environment %, buer 300 m",0,0,-1,0,0,0,0,0,0

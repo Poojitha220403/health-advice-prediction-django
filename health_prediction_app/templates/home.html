@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Home Page</title>
+  </head>
+  <body>
+    <h1>Input Attributes</h1>
+    <form method="post">
+      {% csrf_token %} {{ form.as_p }}
+      <!-- Display form fields -->
+      <button type="submit">Submit</button>
+    </form>
+    <!-- Display column sums -->
+    <h2>Column Sums</h2>
+    <ul>
+      {% for column, sum_value in column_sums.items %}
+      <li>Sum for {{ column }}: {{ sum_value }}</li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>

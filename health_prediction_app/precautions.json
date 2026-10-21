@@ -1,0 +1,247 @@
+{
+  "precautions": [
+    {
+      "system_name": "Body",
+      "precaution_range": [0.053, 0.59],
+      "precautions_details": [
+        {
+          "precaution": "Practice good hygiene, including regular handwashing, to prevent the spread of germs and infections: ",
+          "steps": [
+            "Wash hands with soap and water for at least 20 seconds, especially before eating, after using the restroom, and after coughing or sneezing.",
+            "Use hand sanitizer with at least 60% alcohol if soap and water are not available."
+          ]
+        },
+        {
+          "precaution": "Use sunscreen and protective clothing to shield the skin from harmful UV radiation.",
+          "steps": [
+            "Apply sunscreen with SPF 30 or higher to exposed skin and reapply every two hours or after swimming or sweating.",
+            "Wear protective clothing such as hats, sunglasses, and long-sleeved shirts when spending time outdoors."
+          ]
+        },
+        {
+          "precaution": "Avoid tobacco, excessive alcohol consumption, and illicit drugs to reduce the risk of chronic diseases.",
+          "steps": [
+            "Quit smoking and avoid secondhand smoke.",
+            "Limit alcohol consumption to moderate levels (up to one drink per day for women and up to two drinks per day for men).",
+            "Seek help if you're struggling with substance abuse issues."
+          ]
+        }
+      ]
+    },
+    {
+      "system_name": "Cardiac",
+      "precaution_range": [0.35, 0.5],
+      "precautions_details": [
+        {
+          "precaution": "Quit smoking and avoid exposure to secondhand smoke to reduce the risk of heart disease:",
+          "steps": [
+            "Smoking Cessation Programs: Seek support from smoking cessation programs, nicotine replacement therapy, counseling, or medications to quit smoking.",
+            "Smoke-Free Environment: Avoid places where smoking is permitted, and encourage family members and friends to quit smoking as well."
+          ]
+        },
+        {
+          "precaution": "Limit the consumption of foods high in trans fats, processed sugars, and salt:",
+          "steps": [
+            "Awareness: Read food labels to identify sources of trans fats, processed sugars, and salt, and choose healthier alternatives.",
+            "Cooking at Home: Prepare meals at home using fresh ingredients to have better control over the ingredients and cooking methods."
+          ]
+        },
+        {
+          "precaution": "Follow prescribed medication regimens and consult with a healthcare provider before starting new medications:",
+          "steps": [
+            "Adherence: Take prescribed medications as directed by your healthcare provider, and don't discontinue them without consulting your doctor.",
+            "Communication: Inform your healthcare provider about all medications, including over-the-counter drugs and supplements, to avoid potential interactions."
+          ]
+        }
+      ]
+    },
+    {
+      "system_name": "Pulmonary",
+      "precaution_range": [-0.006, 0.51],
+      "precautions_details": [
+        {
+          "precaution": "Wear appropriate protective gear, such as masks, in polluted or dusty environments:",
+          "steps": [
+            "Respiratory Masks: Use N95 respirators or masks designed to filter out fine particles in polluted or dusty environments.",
+            "Avoidance: Limit time spent in areas with poor air quality and wear a mask if exposure is unavoidable."
+          ]
+        },
+        {
+          "precaution": "Avoid smoking and exposure to secondhand smoke, which can damage lung tissue:",
+          "steps": [
+            "Smoking Cessation: Quit smoking if you're a smoker, and avoid exposure to secondhand smoke by creating smoke-free environments.",
+            "Support Resources: Seek support from smoking cessation programs, nicotine replacement therapy, counseling, or medications to quit smoking."
+          ]
+        },
+        {
+          "precaution": "Practice proper respiratory hygiene, including covering the mouth and nose when coughing or sneezing:",
+          "steps": [
+            "Cough Etiquette: Cover your mouth and nose with a tissue or your elbow when coughing or sneezing to prevent the spread of respiratory droplets.",
+            "Hand Hygiene: Wash hands frequently with soap and water for at least 20 seconds, especially after coughing, sneezing, or blowing your nose, to reduce the risk of spreading respiratory infections."
+          ]
+        }
+      ]
+    },
+    {
+      "system_name": "Muscle",
+      "precaution_range": [-0.047, 0.43],
+      "precautions_details": [
+        {
+          "precaution": "Warm up before exercising and cool down afterward to reduce the risk of muscle strains and injuries:",
+          "steps": [
+            "Warm-Up: Perform dynamic stretches or light aerobic activities for 5-10 minutes before starting your workout to increase blood flow and prepare muscles for activity.",
+            "Cool Down: Incorporate static stretches and gentle movements at the end of your workout to help muscles relax and prevent stiffness."
+          ]
+        },
+        {
+          "precaution": "Use proper lifting techniques and equipment when lifting heavy objects:",
+          "steps": [
+            "Lifting Technique: Bend at the knees and hips, keep the back straight, and lift with your legs rather than your back. Avoid twisting while lifting heavy objects.",
+            "Use of Equipment: Use lifting aids or equipment such as weight belts or lifting straps when appropriate to support proper lifting mechanics and reduce the risk of injury."
+          ]
+        },
+        {
+          "precaution": "Practice proper respiratory hygiene, including covering the mouth and nose when coughing or sneezing:",
+          "steps": [
+            "Cough Etiquette: Cover your mouth and nose with a tissue or your elbow when coughing or sneezing to prevent the spread of respiratory droplets.",
+            "Hand Hygiene: Wash hands frequently with soap and water for at least 20 seconds, especially after coughing, sneezing, or blowing your nose, to reduce the risk of spreading respiratory infections."
+          ]
+        }
+      ]
+    },
+    {
+      "system_name": "Immune",
+      "precaution_range": [1.26, 1.8],
+      "precautions_details": [
+        {
+          "precaution": "Get vaccinated against preventable infectious diseases as recommended by healthcare professionals:",
+          "steps": [
+            "Vaccination Schedule: Follow recommended vaccination schedules for routine immunizations, such as influenza, measles, mumps, rubella, pneumococcal, and other vaccines, to protect against preventable infectious diseases.",
+            "Consult Healthcare Provider: Discuss vaccination options and recommendations with your healthcare provider, especially if you have specific health conditions or concerns."
+          ]
+        },
+        {
+          "precaution": "Avoid close contact with individuals who are sick or exhibiting symptoms of illness:",
+          "steps": [
+            "Social Distancing: Maintain physical distance from individuals who are sick or displaying symptoms of contagious illnesses, especially during outbreaks or pandemics.",
+            "Respiratory Etiquette: Cover your mouth and nose with a tissue or elbow when coughing or sneezing, and encourage others to do the same to reduce the spread of respiratory droplets."
+          ]
+        },
+        {
+          "precaution": "Consider immune-boosting supplements or medications under the guidance of a healthcare provider:",
+          "steps": [
+            "Supplement Use: Discuss the use of immune-boosting supplements or medications, such as vitamin C, vitamin D, zinc, or probiotics, with your healthcare provider to determine their suitability and potential benefits for your individual health needs."
+          ]
+        }
+      ]
+    },
+    {
+      "system_name": "Renal",
+      "precaution_range": [-0.007, 0.53],
+      "precautions_details": [
+        {
+          "precaution": "Limit intake of foods high in salt, sugar, and saturated fats, which can contribute to kidney disease:",
+          "steps": [
+            "Dietary Modifications: Choose whole, unprocessed foods and limit intake of high-salt, high-sugar, and high-fat foods such as processed snacks, sugary beverages, and fatty meats.",
+            "Dietary Planning: Work with a registered dietitian to develop a personalized meal plan that supports kidney health and addresses individual dietary needs and preferences."
+          ]
+        },
+        {
+          "precaution": "Avoid prolonged use of nonsteroidal anti-inflammatory drugs (NSAIDs) without medical supervision:",
+          "steps": [
+            "Pain Management Alternatives: Explore alternative pain management strategies such as heat therapy, physical therapy, acupuncture, or prescription medications under the guidance of a healthcare provider to avoid overreliance on NSAIDs.",
+            "Consultation: Consult your healthcare provider before starting or discontinuing any medications, including over-the-counter pain relievers, especially if you have underlying kidney conditions or risk factors."
+          ]
+        },
+        {
+          "precaution": "Maintain a healthy weight and engage in regular physical activity to reduce the risk of kidney problems:",
+          "steps": [
+            "Weight Management: Maintain a healthy weight through a balanced diet and regular exercise to reduce the risk of obesity-related conditions such as diabetes and hypertension, which can contribute to kidney disease.",
+            "Physical Activity: Engage in regular physical activity, such as walking, swimming, cycling, or strength training, to support overall health and reduce the risk of chronic diseases associated with kidney problems."
+          ]
+        }
+      ]
+    },
+    {
+      "system_name": "Hepatic",
+      "precaution_range": [-0.041, 0.37],
+      "precautions_details": [
+        {
+          "precaution": "Use medications, including over-the-counter drugs, as directed and avoid exceeding recommended dosages:",
+          "steps": [
+            "Medication Safety: Take medications only as prescribed by healthcare professionals and follow dosage instructions carefully to prevent medication-related liver damage or toxicity.",
+            "Consultation: Consult your healthcare provider or pharmacist before taking any new medications, including over-the-counter drugs, to check for potential interactions or adverse effects on liver function."
+          ]
+        },
+        {
+          "precaution": "Follow food safety guidelines to prevent foodborne illnesses that can affect liver health:",
+          "steps": [
+            "Food Handling: Practice proper food handling, storage, and preparation techniques to prevent foodborne illnesses caused by bacteria, viruses, or toxins that can affect liver health.",
+            "Food Hygiene: Wash hands thoroughly before handling food, cook food to safe temperatures, store perishable foods properly, and avoid cross-contamination between raw and cooked foods."
+          ]
+        },
+        {
+          "precaution": "Get regular liver function tests and screenings as recommended by healthcare professionals:",
+          "steps": [
+            "Routine Screening: Follow recommended guidelines for liver function tests and screenings, especially if you have risk factors such as a history of liver disease, viral hepatitis infection, obesity, diabetes, or alcohol misuse.",
+            "Health Checkups: Attend regular health checkups and screenings to monitor liver health, detect early signs of liver disease or dysfunction, and take preventive action as needed."
+          ]
+        }
+      ]
+    },
+    {
+      "system_name": "Metabolic",
+      "precaution_range": [0.215, 0.95],
+      "precautions_details": [
+        {
+          "precaution": "Avoid crash diets and extreme weight loss methods, as they can disrupt metabolic function:",
+          "steps": [
+            "Gradual Changes: Implement gradual changes to your diet and lifestyle to achieve sustainable weight loss and metabolic improvements, rather than resorting to drastic measures that may be harmful to overall health.",
+            "Consultation: Seek guidance from healthcare professionals, registered dietitians, or nutritionists to develop a balanced and individualized weight loss plan that promotes long-term success and metabolic health."
+          ]
+        },
+        {
+          "precaution": "Stay hydrated and drink water throughout the day to support metabolic processes:",
+          "steps": [
+            "Hydration: Drink water regularly throughout the day to maintain proper hydration, support metabolic processes, and regulate body temperature. Aim for at least 8 cups (64 ounces) of water per day, or more if you're physically active or in hot weather.",
+            "Hydrating Foods: Consume water-rich foods such as fruits, vegetables, soups, and smoothies to supplement your fluid intake and promote hydration."
+          ]
+        },
+        {
+          "precaution": "Get regular medical check-ups to assess metabolic health and identify any underlying conditions:",
+          "steps": [
+            "Routine Screenings: Schedule regular health check-ups and screenings with your healthcare provider to assess metabolic health indicators such as blood pressure, cholesterol levels, blood sugar levels, and body weight.",
+            "Early Detection: Detecting metabolic abnormalities or underlying conditions early through routine screenings allows for timely intervention and management to prevent complications and promote overall health."
+          ]
+        }
+      ]
+    },
+    {
+      "system_name": "Brain",
+      "precaution_range": [0.185, 0.628],
+      "precautions_details": [
+        {
+          "precaution": "Wear helmets and other protective gear during activities that pose a risk of head injury, such as cycling, skating, or skiing:",
+          "steps": [
+            "Safety Equipment: Use appropriate safety gear, including helmets, protective padding, and goggles, during sports and recreational activities that carry a risk of head injury to reduce the risk of traumatic brain injury (TBI) and long-term cognitive impairment.",
+            "Safety Guidelines: Follow safety guidelines and rules for each activity, and avoid engaging in high-risk behaviors that increase the likelihood of accidents or injuries."
+          ]
+        },
+        {
+          "precaution": "Limit exposure to environmental toxins and pollutants that can harm brain health:",
+          "steps": [
+            "Environmental Awareness: Be mindful of environmental factors that may affect brain health, such as air pollution, heavy metals, pesticides, and chemicals, and take steps to minimize exposure through lifestyle choices and environmental precautions.",
+            "•Indoor Air Quality: Improve indoor air quality by ventilating living spaces, using air purifiers, reducing indoor pollutants, and avoiding smoking or exposure to secondhand smoke."
+          ]
+        },
+        {
+          "precaution": "Practice mindfulness and relaxation techniques to reduce the risk of cognitive decline and mental health disorders:",
+          "steps": [
+            "Mindfulness Practices: Incorporate mindfulness meditation, relaxation exercises, or mindfulness-based stress reduction (MBSR) programs into your daily routine to reduce stress, promote mental clarity, and support brain health.",
+            "Cognitive Training: Engage in cognitive training programs or activities that promote mindfulness, attention, and emotional regulation skills to enhance cognitive function and resilience against age-related cognitive decline or mental health disorders."
+          ]
+        }
+      ]
+    }
+  ]
+}

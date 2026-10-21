@@ -1,0 +1,16 @@
+<!-- form_template.html -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Home Page</title>
+  </head>
+  <body>
+    <h1>Input Attributes</h1>
+    <form method="post">
+      {% csrf_token %} {{ form.as_p }}<br />
+      <!-- Display form fields -->
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>

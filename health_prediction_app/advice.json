@@ -1,0 +1,392 @@
+{
+    "advice": [
+      {
+        "system_name": "Body",
+        "advice_range": [0.592, 1.64],
+        "health_advices": [
+          {
+            "advice": "Maintain a balanced diet comprising a variety of fruits, vegetables, whole grains, and lean proteins.",
+            "details": [
+              "Measure: Aim to fill half your plate with fruits and vegetables at each meal. Incorporate a variety of colors to ensure you're getting a diverse range of nutrients. Choose whole grains such as brown rice, quinoa, and whole wheat bread over refined grains. Opt for lean protein sources such as poultry, fish, tofu, beans, and legumes.",
+              "Portion Control: Be mindful of portion sizes to avoid overeating. Use smaller plates to help control portion sizes.",
+              "Meal Planning: Plan your meals ahead of time to ensure you have nutritious options available. Prepare healthy snacks to prevent unhealthy eating choices when hungry.",
+              "Limit Processed Foods: Minimize intake of processed foods high in added sugars, unhealthy fats, and sodium."
+            ]
+          },
+          {
+            "advice": "Engage in regular physical activity, including aerobic exercises, strength training, and flexibility exercises.",
+            "details": [
+              "Measure: Aim for at least 150 minutes of moderate aerobic activity or 75 minutes of vigorous aerobic activity each week. Incorporate strength training exercises targeting major muscle groups at least twice a week. Include flexibility exercises such as yoga or stretching to improve range of motion and prevent injuries.",
+              "Set Goals: Set achievable fitness goals to stay motivated and track your progress.",
+              "Find Enjoyable Activities: Choose physical activities that you enjoy to make exercise a sustainable part of your routine.",
+              "Gradual Progression: Start slowly if you're new to exercise and gradually increase intensity and duration over time to avoid injury."
+            ]
+          },
+          {
+            "advice": "Ensure adequate hydration by drinking plenty of water throughout the day.",
+            "details": [
+              "Measure: Drink at least 8 glasses (64 ounces) of water per day, but individual needs may vary based on factors such as age, gender, climate, and activity level.",
+              "Hydration Reminder: Carry a reusable water bottle with you throughout the day as a reminder to stay hydrated.",
+              "Monitor Urine Color: Check the color of your urine; pale yellow indicates proper hydration, while dark yellow may indicate dehydration.",
+              "Limit Dehydrating Beverages: Minimize consumption of beverages that can lead to dehydration, such as caffeinated and alcoholic drinks."
+            ]
+          },
+          {
+            "advice": "Prioritize mental health by managing stress, practicing mindfulness, and seeking social support.",
+            "details": [
+              "Measure: Practice stress-reduction techniques such as deep breathing exercises, meditation, and yoga.",
+              "Time Management: Prioritize tasks and set realistic goals to reduce stress levels.",
+              "Social Connection: Stay connected with friends and family for emotional support and companionship.",
+              "Professional Help: Seek help from a mental health professional if you're struggling with persistent stress, anxiety, or depression."
+            ]
+          }
+        ]
+      },
+      {
+        "system_name": "Cardiac",
+        "advice_range": [0.5, 1],
+        "health_advices": [
+          {
+            "advice": "Adopt a heart-healthy diet low in saturated fats, cholesterol, and sodium.",
+            "details": [
+              "Measure: Focus on consuming a diet rich in fruits, vegetables, whole grains, and lean proteins such as poultry, fish, tofu, beans, and legumes. Limit intake of saturated fats found in fatty meats, full-fat dairy products, and processed foods. Choose heart-healthy fats from sources like nuts, seeds, avocados, and olive oil. Limit cholesterol intake by minimizing consumption of high-cholesterol foods like egg yolks and organ meats. Reduce sodium intake by avoiding processed foods, canned soups, and salty snacks, and opting for fresh ingredients and low-sodium alternatives.",
+              "Reading Labels: Check food labels for saturated fat, cholesterol, and sodium content, and choose products with lower amounts.",
+              "Portion Control: Control portion sizes to prevent overeating, which can contribute to weight gain and heart disease risk.",
+              "Meal Planning: Plan meals in advance to ensure they align with heart-healthy dietary guidelines."
+            ]
+          },
+          {
+            "advice": "Engage in regular aerobic exercises such as walking, jogging, or swimming to strengthen the heart muscle.",
+            "details": [
+              "Measure: Aim for at least 150 minutes of moderate-intensity aerobic exercise or 75 minutes of vigorous-intensity aerobic exercise per week. This can include activities such as brisk walking, jogging, cycling, swimming, or dancing.",
+              "Consistency: Incorporate aerobic exercise into your routine on most days of the week to reap the cardiovascular benefits.",
+              "Progression: Gradually increase the intensity, duration, and frequency of your workouts as your fitness level improves.",
+              "Variety: Include a variety of aerobic exercises to prevent boredom and target different muscle groups."
+            ]
+          },
+          {
+            "advice": "Monitor blood pressure and cholesterol levels regularly and seek medical attention if abnormalities are detected.",
+            "details": [
+              "Measure: Check your blood pressure and cholesterol levels as recommended by your healthcare provider. Blood pressure should ideally be below 120/80 mmHg, and cholesterol levels should be within healthy ranges.",
+              "Home Monitoring: Invest in a home blood pressure monitor and cholesterol testing kit if recommended by your doctor, and track your readings regularly.",
+              "Medical Follow-up: Consult your healthcare provider if you notice any abnormal readings or experience symptoms such as chest pain, shortness of breath, or dizziness."
+            ]
+          },
+          {
+            "advice": "Manage stress through relaxation techniques, deep breathing exercises, or hobbies.",
+            "details": [
+              "Measure: Practice stress management techniques such as deep breathing exercises, meditation, yoga, or progressive muscle relaxation.",
+              "Time Management: Prioritize tasks, delegate responsibilities when possible, and avoid overcommitting to reduce stress levels.",
+              "Hobbies and Leisure Activities: Engage in hobbies or activities you enjoy to unwind and relax, whether it's reading, gardening, painting, or listening to music."
+            ]
+          }
+        ]
+      },
+      {
+        "system_name": "Pulmonary",
+        "advice_range": [0.51, 1.69],
+        "health_advices": [
+          {
+            "advice": "Avoid exposure to environmental pollutants and respiratory irritants whenever possible:",
+            "details": [
+                "Measure: Minimize exposure to air pollution, including vehicle exhaust, industrial emissions, and indoor pollutants such as smoke and chemical fumes.",
+                "Indoor Air Quality: Keep indoor air clean by using air purifiers, ensuring proper ventilation, and avoiding tobacco smoke and other indoor pollutants.",
+                "Outdoor Protection: Check air quality forecasts and avoid outdoor activities during times of high pollution. Wear a mask if necessary, especially in heavily polluted areas.",
+                "Workplace Safety: Follow occupational safety guidelines and use protective equipment if working in environments with respiratory hazards."
+            ]
+          },
+          {
+            "advice": "Practice deep breathing exercises and maintain good posture to support lung function:",
+            "details": [
+              "Measure: Practice deep breathing exercises regularly to strengthen respiratory muscles and improve lung function. Focus on diaphragmatic breathing techniques, inhaling deeply through the nose, filling the lungs with air, and exhaling slowly through the mouth.",
+              "Posture: Maintain good posture to optimize lung capacity and prevent restrictions on breathing. Sit or stand upright with shoulders back to allow for full expansion of the lungs.",
+              "Physical Activity: Engage in activities that promote deep breathing, such as yoga, tai chi, or swimming, to enhance respiratory function and flexibility."
+            ]
+          },
+          {
+            "advice": "Monitor blood pressure and cholesterol levels regularly and seek medical attention if abnormalities are detected.",
+            "details": [
+                "Measure: Aim for at least 150 minutes of moderate-intensity aerobic exercise or 75 minutes of vigorous-intensity aerobic exercise per week to improve lung capacity and respiratory health.",
+                "Cardiovascular Activities: Incorporate activities such as walking, jogging, cycling, or swimming that elevate heart rate and increase oxygen uptake.",
+                "Strength Training: Include exercises that target the muscles involved in breathing, such as the diaphragm and intercostal muscles, to enhance respiratory efficiency.",
+                "Gradual Progression: Start with low-impact exercises and gradually increase intensity and duration as fitness improves to avoid overexertion."
+            ]
+          },
+          {
+            "advice": "Manage stress through relaxation techniques, deep breathing exercises, or hobbies.",
+            "details": [
+              "Measure: Practice stress management techniques such as deep breathing exercises, meditation, yoga, or progressive muscle relaxation.",
+              "Time Management: Prioritize tasks, delegate responsibilities when possible, and avoid overcommitting to reduce stress levels.",
+              "Hobbies and Leisure Activities: Engage in hobbies or activities you enjoy to unwind and relax, whether it's reading, gardening, painting, or listening to music."
+            ]
+          }
+        ]
+      },
+      {
+        "system_name": "Muscle",
+        "advice_range": [0.43, 1.26],
+        "health_advices": [
+          {
+            "advice": "Incorporate a combination of strength training, flexibility exercises, and cardiovascular activities into your fitness routine:",
+            "details": [
+                "Measure: Design a well-rounded fitness program that includes strength training exercises to build muscle, flexibility exercises to improve range of motion and prevent injury, and cardiovascular activities to improve heart health and endurance.",
+                "Strength Training: Include resistance training exercises such as weightlifting, bodyweight exercises, or resistance band workouts targeting major muscle groups.",
+                "Flexibility Exercises: Incorporate stretching exercises or activities like yoga or Pilates to improve flexibility and mobility.",
+                "Cardiovascular Activities: Engage in aerobic exercises such as walking, jogging, cycling, or swimming to improve cardiovascular fitness and burn calories."
+            ]
+          },
+          {
+            "advice": "Ensure adequate protein intake to support muscle repair and growth:",
+            "details": [
+              "Measure: Consume an adequate amount of protein from sources such as lean meats, poultry, fish, eggs, dairy products, legumes, nuts, and seeds to support muscle repair and growth.",
+              "Protein Requirements: Aim for approximately 0.8 to 1 gram of protein per kilogram of body weight per day, with higher protein intake recommended for individuals engaged in intense physical activity or strength training.",
+              "Timing: Distribute protein intake evenly throughout the day, including protein-rich foods in each meal and snack to support muscle protein synthesis."
+            ]
+          },
+          {
+            "advice": "Allow for proper rest and recovery between workouts to prevent overtraining and injury:",
+            "details": [
+                "Measure: Schedule rest days into your workout routine to allow muscles time to recover and repair. Aim for at least one or two days of rest per week.",
+                "Quality Sleep: Prioritize quality sleep to support muscle recovery and overall physical health. Aim for 7-9 hours of sleep per night.",
+                "Active Recovery: Incorporate light activities such as walking, cycling, or yoga on rest days to promote blood flow and muscle recovery without causing additional strain.",
+                "Hydration and Nutrition: Stay hydrated and nourished with a balanced diet to support recovery and replenish energy stores after exercise."
+                
+            ]
+          },
+          {
+            "advice": "Active Recovery: Incorporate light activities such as walking, cycling, or yoga on rest days to promote blood flow and muscle recovery without causing additional strain.",
+            "details": [
+                "Measure: Schedule rest days into your workout routine to allow muscles time to recover and repair. Aim for at least one or two days of rest per week.",
+                "Quality Sleep: Prioritize quality sleep to support muscle recovery and overall physical health. Aim for 7-9 hours of sleep per night.",
+                "Active Recovery: Incorporate light activities such as walking, cycling, or yoga on rest days to promote blood flow and muscle recovery without causing additional strain.",
+                "Hydration and Nutrition: Stay hydrated and nourished with a balanced diet to support recovery and replenish energy stores after exercise."
+            ]
+          },
+          {
+            "advice": "Maintain proper posture and body mechanics during physical activities:",
+            "details": [
+                "Measure: Pay attention to your posture and body alignment during exercises and daily activities to reduce the risk of injury and strain on muscles and joints.",
+                "Form and Technique: Focus on proper form and technique when performing strength training exercises to target the intended muscles and avoid compensation or injury.",
+                "Core Stability: Strengthen core muscles to support good posture and stability during movements. Incorporate exercises such as planks, bridges, and abdominal crunches.",
+                "Ergonomics: Use ergonomic equipment and adjust workstations or exercise setups to promote proper posture and body mechanics."
+            ]
+          }
+        ]
+      },
+      {
+        "system_name": "Immune",
+        "advice_range": [0.9, 1.8],
+        "health_advices": [
+          {
+            "advice": "Eat a balanced diet rich in vitamins, minerals, and antioxidants to support immune function:",
+            "details": [
+                "Measure: Consume a variety of nutrient-dense foods including fruits, vegetables, whole grains, lean proteins, and healthy fats to provide essential vitamins (such as vitamins A, C, D, and E), minerals (such as zinc and selenium), and antioxidants (such as beta-carotene and flavonoids).",
+                "Colorful Plate: Aim to include a colorful array of fruits and vegetables in your meals to ensure a diverse range of nutrients.",
+                "Protein Intake: Incorporate lean protein sources such as poultry, fish, tofu, beans, and legumes to support immune cell function and repair.",
+                "Hydration: Stay hydrated by drinking plenty of water throughout the day to support immune function and maintain overall health."
+                
+            ]
+          },
+          {
+            "advice": "Get regular exercise to boost immunity and overall health:",
+            "details": [
+              "Measure: Engage in regular physical activity, such as brisk walking, jogging, cycling, or strength training, to enhance immune function, reduce inflammation, and improve overall health.",
+              "Frequency and Duration: Aim for at least 150 minutes of moderate-intensity aerobic exercise or 75 minutes of vigorous-intensity aerobic exercise per week, along with muscle-strengthening activities on two or more days per week.",
+              "Consistency: Incorporate exercise into your daily routine to establish a consistent habit and maximize immune-boosting benefits.",
+              "Outdoor Activities: Take advantage of outdoor activities such as hiking, gardening, or playing sports to get sunlight exposure and vitamin D synthesis, which supports immune health."
+              
+            ]
+          },
+          {
+            "advice": "Ensure adequate sleep and manage stress effectively to support immune system function:",
+            "details": [
+                "Measure: Prioritize quality sleep by establishing a regular sleep schedule, creating a relaxing bedtime routine, and optimizing sleep environment conditions (such as keeping the bedroom dark, quiet, and cool).",
+                "Sleep Hygiene: Limit screen time before bed, avoid caffeine and heavy meals close to bedtime, and practice relaxation techniques such as deep breathing or meditation to promote restful sleep.",
+                "Stress Management: Practice stress-reduction techniques such as mindfulness meditation, yoga, tai chi, or progressive muscle relaxation to manage stress effectively and support immune function.",
+                "Work-Life Balance: Strive to maintain a healthy work-life balance by setting boundaries, delegating tasks, and prioritizing self-care activities."
+            ]
+          },
+          {
+            "advice": "Practice good hygiene, including frequent handwashing and proper food handling:",
+            "details": [
+                "Measure: Wash your hands thoroughly with soap and water for at least 20 seconds, especially before eating, after using the restroom, and after coughing, sneezing, or blowing your nose.",
+                "Hand Sanitization: Use alcohol-based hand sanitizers with at least 60% alcohol when soap and water are not readily available, but prioritize handwashing whenever possible.",
+                "Food Safety: Handle and prepare food safely by washing hands and surfaces often, cooking foods to the appropriate temperatures, and storing perishable foods properly to prevent foodborne illnesses."
+                
+            ]
+          }
+        ]
+      },
+      {
+        "system_name": "Renal",
+        "advice_range": [0.53, 1.73],
+        "health_advices": [
+          {
+            "advice": "Stay hydrated by drinking an adequate amount of water throughout the day:",
+            "details": [
+                "Measure: Drink enough water to stay adequately hydrated, aiming for about 8 glasses (64 ounces) per day, but individual needs may vary based on factors such as age, weight, climate, and activity level.",
+                "Hydration Reminder: Carry a reusable water bottle with you throughout the day as a reminder to drink water regularly.",
+                "Monitor Urine Color: Check the color of your urine; pale yellow indicates proper hydration, while dark yellow may indicate dehydration.",
+                "Hydrating Foods: Consume water-rich foods such as fruits and vegetables to supplement your fluid intake."
+            ]
+          },
+          {
+            "advice": "Eat a balanced diet low in sodium and processed foods to support kidney health:",
+            "details": [
+              "Measure: Consume a diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats, and limit intake of processed foods, fast food, and high-sodium foods.",
+              "Sodium Reduction: Limit sodium intake to less than 2,300 milligrams per day (or even lower if advised by your healthcare provider) to help maintain healthy blood pressure and reduce the risk of kidney damage.",
+              "Read Food Labels: Check food labels for sodium content and choose low-sodium or sodium-free options whenever possible.",
+              "Home Cooking: Prepare meals at home using fresh ingredients to have better control over the amount of sodium in your diet."
+              
+              
+            ]
+          },
+          {
+            "advice": "Monitor blood pressure and blood sugar levels regularly to prevent kidney damage:",
+            "details": [
+                "Measure: Keep track of your blood pressure and blood sugar levels as recommended by your healthcare provider, especially if you have risk factors such as diabetes or hypertension.",
+                "Blood Pressure Control: Aim for blood pressure levels below 120/80 mmHg to reduce the risk of kidney disease and other cardiovascular complications.",
+                "Blood Sugar Management: Maintain stable blood sugar levels through dietary modifications, regular exercise, and medication adherence if you have diabetes, as poorly controlled diabetes can lead to kidney damage."
+            ]
+          },
+          {
+            "advice": "Avoid excessive consumption of alcohol and over-the-counter medications that can strain the kidneys:",
+            "details": [
+                "Measure: Limit alcohol consumption to moderate levels, defined as up to one drink per day for women and up to two drinks per day for men, to reduce the risk of kidney damage and other health problems.",
+                "Medication Safety: Use over-the-counter medications, including pain relievers and anti-inflammatories, sparingly and as directed, as excessive use can strain the kidneys and lead to kidney damage or dysfunction.",
+                "Consult Healthcare Provider: Discuss any concerns about medications or their potential impact on kidney health with your healthcare provider."
+                
+            ]
+          }
+        ]
+      },
+      {
+        "system_name": "Hepatic",
+        "advice_range": [0.37, 1.4],
+        "health_advices": [
+          {
+            "advice": "Limit alcohol consumption and avoid excessive drinking to prevent liver damage:",
+            "details": [
+                "Measure: Limit alcohol consumption to moderate levels, defined as up to one drink per day for women and up to two drinks per day for men. Avoid binge drinking or excessive alcohol consumption, as it can lead to liver inflammation, fatty liver disease, cirrhosis, and other liver-related conditions.",
+                "Alcohol Awareness: Educate yourself about standard drink sizes and alcohol content in beverages to make informed choices about alcohol consumption.",
+                "Seek Support: If you struggle with alcohol dependence or addiction, seek support from healthcare professionals, support groups, or counseling services to address underlying issues and reduce the risk of liver damage."
+            ]    
+          },
+          {
+            "advice": "Eat a balanced diet rich in fruits, vegetables, and whole grains to support liver function:",
+            "details": [
+              "Measure: Consume a well-balanced diet that includes a variety of fruits, vegetables, whole grains, lean proteins, and healthy fats to support liver health and function.",
+              "Nutrient-Rich Foods: Choose foods rich in antioxidants, vitamins (such as vitamins A, C, and E), minerals (such as selenium and zinc), and fiber to promote liver detoxification and reduce inflammation.",
+              "Portion Control: Practice portion control and mindful eating to maintain a healthy weight and prevent excessive calorie intake, which can contribute to fatty liver disease and other liver-related conditions."
+            ]
+          },
+          {
+            "advice": "Get vaccinated against hepatitis viruses to prevent viral hepatitis:",
+            "details": [
+                "Measure: Get vaccinated against hepatitis A and hepatitis B viruses as recommended by healthcare professionals to prevent viral hepatitis infections, which can cause acute and chronic liver disease.",
+                "Vaccination Schedule: Follow the recommended vaccination schedule for hepatitis vaccines, which may include a series of doses and booster shots for optimal protection.",
+                "Risk Assessment: Discuss your individual risk factors for hepatitis infection with your healthcare provider to determine the appropriate vaccination strategy and schedule for your needs."
+            ]   
+          },
+          {
+            "advice": "Practice safe sex and avoid sharing needles to prevent the transmission of hepatitis and other bloodborne diseases:",
+            "details": [
+                "Measure: Practice safe sex by using condoms consistently and correctly to reduce the risk of sexually transmitted infections (STIs), including hepatitis B and hepatitis C viruses.",
+                "Harm Reduction: Avoid sharing needles, syringes, or other injection equipment for drug use, medical procedures, or body piercings to prevent the transmission of bloodborne diseases, including hepatitis B and hepatitis C viruses.",
+                "Access Resources: Seek support from healthcare providers, community health centers, or harm reduction programs for access to safer injection equipment, STI testing, and counseling services."
+            ]
+          }
+        ]
+      },
+      {
+        "system_name": "Metabolic",
+        "advice_range": [0.95, 1.65],
+        "health_advices": [
+          {
+            "advice": "Maintain a healthy weight through a combination of balanced diet and regular physical activity:",
+            "details": [
+                "Measure: Aim for a healthy weight by adopting a balanced diet and engaging in regular physical activity to achieve a calorie balance that supports weight maintenance or gradual weight loss if needed.",
+                "Caloric Balance: Consume a diet that provides the appropriate number of calories to meet your energy needs while supporting weight goals. This may involve reducing calorie intake, increasing physical activity, or a combination of both.",
+                "Nutrient Density: Choose nutrient-dense foods that are rich in essential nutrients but relatively low in calories, such as fruits, vegetables, lean proteins, and whole grains.",
+                "Physical Activity: Incorporate a variety of physical activities into your routine, including aerobic exercises, strength training, and flexibility exercises, to support overall health and metabolic function."
+            ]    
+          },
+          {
+            "advice": "Eat a diet rich in fiber, whole grains, lean proteins, and healthy fats to support metabolism:",
+            "details": [
+              "Measure: Consume a balanced diet that includes a variety of nutrient-rich foods to support metabolic health and optimize energy metabolism.",
+              "High-Fiber Foods: Include plenty of fiber-rich foods such as fruits, vegetables, whole grains, legumes, and nuts to promote digestive health, regulate blood sugar levels, and support weight management.",
+              "Access Resources: Seek support from healthcare providers, community health centers, or harm reduction programs for access to safer injection equipment, STI testing, and counseling services.",
+              "Healthy Fats: Incorporate sources of healthy fats such as avocados, nuts, seeds, olive oil, and fatty fish into your diet to support heart health, reduce inflammation, and enhance nutrient absorption."
+              
+            ]
+          },
+          {
+            "advice": "Monitor blood sugar levels regularly, especially if you have diabetes or prediabetes:",
+            "details": [
+                "Measure: Monitor blood sugar levels as recommended by your healthcare provider, especially if you have diabetes, prediabetes, or risk factors for metabolic disorders.",
+                "Self-Monitoring: Use blood glucose meters or continuous glucose monitoring devices to monitor blood sugar levels regularly, and keep a record of your readings to track patterns and trends over time.",
+                "Target Ranges: Maintain blood sugar levels within target ranges recommended by healthcare professionals through dietary modifications, medication adherence, physical activity, and lifestyle changes.",
+                "Consultation: Discuss any concerns or fluctuations in blood sugar levels with your healthcare provider to adjust treatment plans or address underlying issues."
+                
+            ]   
+          },
+          {
+            "advice": "Limit intake of sugary beverages, processed foods, and foods high in saturated fats and trans fats:",
+            "details": [
+                "Measure: Reduce consumption of sugary beverages, processed foods, and foods high in saturated fats and trans fats, as they can contribute to weight gain, insulin resistance, and metabolic dysfunction.",
+                "Sugary Beverages: Choose water, unsweetened tea, or other low-calorie beverages as alternatives to sugary drinks such as soda, fruit juices, energy drinks, and sweetened coffee or tea.",
+                "Processed Foods: Minimize intake of processed and packaged foods that are high in added sugars, refined carbohydrates, unhealthy fats, and sodium, and opt for whole, unprocessed foods whenever possible.",
+                "Healthy Alternatives: Replace foods high in saturated fats and trans fats with healthier alternatives such as lean proteins, nuts, seeds, avocados, and olive oil to support heart health and metabolic function."
+                
+            ]
+          }
+        ]
+      },
+      {
+        "system_name": "Brain",
+        "advice_range": [0.62, 1.72],
+        "health_advices": [
+          {
+            "advice": "Engage in mental exercises such as puzzles, reading, and learning new skills to keep the brain active:",
+            "details": [
+                "Measure: Challenge your brain regularly by engaging in activities that stimulate cognitive function, such as solving puzzles, playing board games, reading books, learning a new language, or acquiring new skills.",
+                "Variety: Incorporate a variety of mental exercises into your routine to target different cognitive abilities, including memory, attention, problem-solving, and creativity.",
+                "Consistency: Make brain-stimulating activities a regular part of your daily or weekly routine to maintain cognitive function and prevent cognitive decline as you age.",
+                "Social Engagement: Participate in social activities and interactions that stimulate conversation, social connection, and emotional well-being, as social engagement also supports brain health."
+                
+            ]    
+          },
+          {
+            "advice": "Eat a balanced diet rich in omega-3 fatty acids, antioxidants, and vitamins to support brain health:",
+            "details": [
+              "Measure: Consume a nutrient-rich diet that includes foods known to support brain health, such as fatty fish (rich in omega-3 fatty acids), berries (rich in antioxidants), nuts and seeds, leafy greens, whole grains, and colorful fruits and vegetables.",
+              "Omega-3 Fatty Acids: Include sources of omega-3 fatty acids such as salmon, mackerel, sardines, walnuts, and flaxseeds in your diet to support brain function and reduce inflammation.",
+              "Antioxidants: Incorporate antioxidant-rich foods such as blueberries, strawberries, spinach, kale, broccoli, and dark chocolate into your diet to protect brain cells from oxidative stress and damage.",
+              "Vitamins and Minerals: Ensure adequate intake of vitamins and minerals essential for brain health, including vitamin E, vitamin C, vitamin B12, folate, and zinc, through a balanced diet or supplementation as needed."
+            ]
+          },
+          {
+            "advice": "Get regular physical exercise to improve blood flow to the brain and promote neuroplasticity:",
+            "details": [
+                "Measure: Engage in regular physical activity, including aerobic exercises, strength training, and flexibility exercises, to promote brain health, improve blood flow to the brain, and stimulate neuroplasticity (the brain's ability to adapt and reorganize).",
+                "Aerobic Exercise: Incorporate activities such as walking, jogging, cycling, swimming, or dancing that elevate heart rate and increase blood flow to the brain.",
+                "Strength Training: Include resistance training exercises to build muscle strength, enhance mobility, and support overall physical health, which indirectly benefits brain function.",
+                "Neuroplasticity Exercises: Participate in activities that challenge balance, coordination, and spatial awareness, such as yoga, tai chi, or dance, to stimulate brain plasticity and improve cognitive function."
+            ]   
+          },
+          {
+            "advice": "Prioritize adequate sleep and manage stress effectively to support cognitive function and emotional well-being:",
+            "details": [
+                "Measure: Prioritize quality sleep by establishing a regular sleep schedule, creating a relaxing bedtime routine, and optimizing sleep environment conditions (such as keeping the bedroom dark, quiet, and cool).",
+                "Sleep Hygiene: Practice good sleep hygiene habits such as limiting screen time before bed, avoiding caffeine and heavy meals close to bedtime, and creating a comfortable sleep environment conducive to restful sleep.",
+                "Stress Management: Adopt stress-reduction techniques such as mindfulness meditation, deep breathing exercises, progressive muscle relaxation, or yoga to manage stress effectively and support cognitive function and emotional well-being.",
+                "Work-Life Balance: Strive to maintain a healthy work-life balance by setting boundaries, delegating tasks, and prioritizing self-care activities to reduce chronic stress and burnout."
+                
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
