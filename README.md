@@ -2,6 +2,7 @@
 
 A Django web app that turns a person's lifestyle and health factors into **organ-specific biological-age scores** (body, cardiac, pulmonary, muscle, immune, renal, hepatic, metabolic, brain) and returns tailored **health advice, precautions and motivational statements** for each organ system.
 
+![CI](https://github.com/Poojitha220403/health-advice-prediction-django/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-4.2-092E20?logo=django&logoColor=white)
 
@@ -65,6 +66,15 @@ Generate a secret key with:
 ```bash
 python -c "from django.core.management.utils import get_random_secret_key as k; print(k())"
 ```
+
+## Testing
+
+```bash
+pip install -r requirements-dev.txt
+DJANGO_SECRET_KEY=test pytest -q
+```
+
+The 4 tests cover the factor form (all 61 factors render), organ-score computation and advice matching, empty submissions, and refusing to start without `DJANGO_SECRET_KEY`. They run on every push via GitHub Actions, along with `ruff`.
 
 ## Results
 
